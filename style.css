@@ -34,6 +34,11 @@ html, body {
   justify-content: center;
 }
 
+.arabic-name {
+  font-family: 'Amiri', sans-serif;
+  margin-bottom: 2px;
+}
+
 .name {
   font-family: 'Roboto', sans-serif;
   margin-bottom: 2px;
